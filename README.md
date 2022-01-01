@@ -1,10 +1,6 @@
 # Odysseyus
+ 
+Hey
+This is the wiki of the Odysseyus mod !
 
-
-
-> The project of a life 
-> 
-```
-Yo
-```
-
+ENJOY !

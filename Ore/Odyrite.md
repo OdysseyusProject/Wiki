@@ -1,7 +1,7 @@
 #Odyrite
 
 ##Informations
-Odyrite is a mineral that is stronger than Netherite
+The Odyrite is a mineral that is stronger than Netherite
 You need to cook the ore to get an ingot
 
 ##Amors
@@ -69,3 +69,6 @@ For Craft this word, you don't need a stick, but an odyrite stik
 *With the hammer you can mine a 3x3 hole*
 
 ***You can Repear all tools with odyrite ingot***
+
+##Block
+You can craft an Odyrite block like a gold block.
