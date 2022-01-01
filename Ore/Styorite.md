@@ -1,12 +1,12 @@
 # Styorite 
 
-##Informations
+## Informations
 The Styorite is the most powerful mineral of the mod !
 With the ingots, you can craft the ultimate Sword ! 
 But the Styorite Ore is very difficult to find...
 You need to cook the ore to get an ingot
 
-##Sword
+## Sword
 You can craft the Styorite Sword with a stick and two Styorite ingots.
 Stats :
 - Harvest Level : 2

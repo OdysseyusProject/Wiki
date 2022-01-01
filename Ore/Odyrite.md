@@ -1,10 +1,10 @@
-#Odyrite
+# Odyrite
 
-##Informations
+## Informations
 The Odyrite is a mineral that is stronger than Netherite
 You need to cook the ore to get an ingot
 
-##Amors
+## Amors
 You can craft an Odyrite armor like an simple armor
 Stats :
 - Durability : 650
@@ -15,7 +15,7 @@ Stats :
 
 You can repear this armor with Odyrite ingot
 
-##Tools
+## Tools
 With Odyrite, you can craft tools
 * Sword
   * Harvest Level : 5
@@ -70,5 +70,5 @@ For Craft this word, you don't need a stick, but an odyrite stik
 
 ***You can Repear all tools with odyrite ingot***
 
-##Block
+## Block
 You can craft an Odyrite block like a gold block.
