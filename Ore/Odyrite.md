@@ -25,7 +25,8 @@ With Odyrite, you can craft tools
   * Damage : 10
   * Durability : 2,501
 
-For Craft this word, you don't need a stick, but an odyrite stik
+For Craft this word, you don't need a stick, but an odyrite stick
+
 ![img.png](../media/ody-stick.png)
 
 **⚠️ You can use the Odyrite Stick just with for craft the Odyrite sword**
